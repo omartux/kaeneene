@@ -1,4 +1,4 @@
-# kd-tree
+# knn
 
 Ejercicio KD Tree MCC
 
