@@ -1,6 +1,6 @@
 # knn
 
-Ejercicio KD Tree MCC
+Ejercicio KNN - Diabetes - MCC
 
 -Edwin Fredy Chambi Mamani 
 -Gludher Quispe Cotacallapa
