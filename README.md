@@ -2,10 +2,7 @@
 
 Ejercicio KD Tree MCC
 
--Omar Castillo Alarcon
-
--Erwin Cruz Mamani
-
 -Edwin Fredy Chambi Mamani 
-
 -Gludher Quispe Cotacallapa
+-Erwin Cruz Mamani
+-Omar Castillo Alarcon
